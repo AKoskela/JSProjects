@@ -7,7 +7,7 @@ View the code of the projects [here](https://github.com/AKoskela/JSProjects).
 ```markdown
 Java Lightning
 
-Here's the [link](akoskela.github.io/JSProjects/JSLightning).
+Here's the [link](https://akoskela.github.io/JSProjects/JSLightning/).
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
