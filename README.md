@@ -12,13 +12,13 @@ My first java script [project](https://akoskela.github.io/JSProjects/JSLightning
 
 A two player snake game.
 It consists of three tile types
--Blank Space
--Apples
--Rotten Apples
+- Blank Space
+- Apples
+- Rotten Apples
 
 Players take turns moving their piece around a board gather points as the go
-Blank spaces are worth one.
-Apples are worth three.
-Rotten apples are take away two.
+- Blank spaces are worth one.
+- Apples are worth three.
+- Rotten apples are take away two.
 
 [Here](https://akoskela.github.io/JSProjects/JSMaxit) is the link.
