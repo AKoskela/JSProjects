@@ -21,4 +21,4 @@ Blank spaces are worth one.
 Apples are worth three.
 Rotten apples are take away two.
 
-[Here](https://akoskela.github.io/JSProjects/JSLightning) is the link.
+[Here](https://akoskela.github.io/JSProjects/JSMaxit) is the link.
