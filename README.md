@@ -4,18 +4,21 @@ View the code of the projects [here](https://github.com/AKoskela/JSProjects).
 
 ### Java Script Projects
 
-```markdown
-Java Lightning
+### Java Script Lightning
 
-Here's the.
-```
+My first java script [project](https://akoskela.github.io/JSProjects/JSLightning).
 
-For more details see [GitHub Flavored Markdown](https://akoskela.github.io/JSProjects/JSLightning).
+### Java Script Maxit
 
-### Jekyll Themes
+A two player snake game.
+It consists of three tile types
+-Blank Space
+-Apples
+-Rotten Apples
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AKoskela/JSProjects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Players take turns moving their piece around a board gather points as the go
+Blank spaces are worth one.
+Apples are worth three.
+Rotten apples are take away two.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Here](https://akoskela.github.io/JSProjects/JSLightning) is the link.
